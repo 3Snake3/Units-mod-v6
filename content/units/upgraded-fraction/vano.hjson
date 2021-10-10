@@ -1,0 +1,9 @@
+hitSize: 9
+research: {
+parent: mono
+requirements: [
+silicon/4000
+graphite/4000
+titanium/3500
+]
+}
