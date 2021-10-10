@@ -19,8 +19,6 @@ smokeEffect: shootSmallSmoke
 ammoMultiplier: 2
 backColor: 6d56bf
 frontColor: bf92f9
-status: spore-slowed
-statusDuration: 60
 }
 }
 {
@@ -42,8 +40,6 @@ width: 0.54
 lifetime: 45
 knockback: -1.24
 damage: 10
-status: sapped
-statusDuration: 65
 }
 }]
 research: {

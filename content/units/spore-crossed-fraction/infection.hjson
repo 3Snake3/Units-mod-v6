@@ -35,8 +35,6 @@ splashDamage: 38
 backColor: 6d56bf
 frontColor: bf92f9
 hitShake: 2
-status: spore-slowed
-statusDuration: 60
 fragBullets: 4
 fragLifeMin: 0.3
 fragCone: 360
@@ -54,8 +52,6 @@ splashDamage: 10
 backColor: 6d56bf
 frontColor: bf92f9
 hitShake: 1
-status: sapped
-statusDuration: 60
 }
 }
 }]

@@ -50,8 +50,6 @@ lightningDamage: 5
 lightningColor: bf92f9
 splashDamageRadius: 35
 splashDamage: 45
-status: spore-slowed
-statusDuration: 65
 }
 }
 {
@@ -72,8 +70,6 @@ type: LaserBulletType
 length: 220
 damage: 70
 colors: ["6d56bf", "bf92f9", "ffffff"]
-status: sapped
-statusDuration: 65
 }
 }
 {
@@ -126,8 +122,6 @@ hitEffect: sapExplosion
 despawnEffect: sapExplosion
 backColor: 6d56bf
 frontColor: bf92f9
-status: unmoving
-statusDuration: 70
 }
 }
 }]

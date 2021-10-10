@@ -33,8 +33,6 @@ despawnEffect: sapExplosion
 hitSize: 45
 backColor: 6d56bf
 frontColor: bf92f9
-status: unmoving
-statusDuration: 65
 lightning: 2
 lightningLength: 7
 lightningDamage: 10
@@ -71,8 +69,6 @@ frontColor: bf92f9
 trailColor: 6d56bf
 splashDamage: 10
 splashDamageRadius: 20
-status: spore-slowed
-statusDuration: 65
 }
 }]
 research: {

@@ -23,8 +23,6 @@ range: 100
                 shots: 3
                 inaccuracy: 3
                 shotDelay: 4
-                shootStatus: spore-slowed
-                shootStatusDuration: 80
                 bullet: {
 type: BasicBulletType
 damage: 50
@@ -72,8 +70,7 @@ frontColor: bf92f9
                 color: bf92f9
                 hitColor: bf92f9
                 damage: 30
-                status: sapped
-statusDuration: 85
+               
                 }
                 }
  {

@@ -40,8 +40,6 @@ despawnEffect: sapExplosion
 hitSize: 45
 backColor: 6d56bf
 frontColor: bf92f9
-status: spore-slowed
-statusDuration: 60
 lightning: 2
 lightningLength: 7
 lightningDamage: 5
@@ -77,8 +75,6 @@ despawnEffect: sapExplosion
 hitSize: 45
 backColor: 6d56bf
 frontColor: bf92f9
-status: spore-slowed
-statusDuration: 60
 lightning: 2
 lightningLength: 7
 lightningDamage: 5
@@ -104,8 +100,6 @@ type: LaserBulletType
 length: 200
 damage: 80
 colors: ["6d56bf", "bf92f9", "ffffff"]
-status: sapped
-statusDuration: 65
 }
 }
 {
@@ -133,8 +127,6 @@ hitEffect: sapExplosion
 despawnEffect: sapExplosion
 backColor: 6d56bf
 frontColor: bf92f9
-status: unmoving
-statusDuration: 150
 lightning: 4
 lightningLength: 15
 lightningDamage: 10
@@ -156,8 +148,6 @@ hitEffect: sapExplosion
 despawnEffect: sapExplosion
 backColor: 6d56bf
 frontColor: bf92f9
-status: spore-slowed
-statusDuration: 80
 }
 }
 }]

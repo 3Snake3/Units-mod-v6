@@ -21,8 +21,6 @@ backColor: 6d56bf
 frontColor: bf92f9
 pierce: true
 makeFire: true
-shootStatus: spore-slowed
-shootStatusDuration: 80
 shootEffect: {
 type: ParticleEffect
 sizeFrom: 2
@@ -55,8 +53,6 @@ width: 0.54
 lifetime: 50
 knockback: -1.24
 damage: 12
-status: sapped
-statusDuration: 60
 }
 }]
 research: {
